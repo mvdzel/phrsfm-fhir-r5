@@ -1,5 +1,3 @@
-Output snapshot: https://vdzel.home.xs4all.nl/phrfm-fhir-r5/
-
 ## TODO
 * make the max file a parameter
 * make the fmid a parameter and use also in template for links! or remove??
