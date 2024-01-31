@@ -4,6 +4,9 @@
 * figure out correct canonical
 * get title from max file
 * Why it the title of each Artifact page starting with "Example"??
+* satisfiedBy.txt
+    * use https://github.com/HL7/personal-health-record-format-ig/issues/43
+    * and https://build.fhir.org/ig/HL7/standard-patient-health-record-ig/functionality.html
 
 ## Running the scipt and IG publisher
 

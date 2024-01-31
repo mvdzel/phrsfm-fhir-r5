@@ -10,6 +10,15 @@ xml.parseString(fs.readFileSync('phrs-fm.max'), function (err, data) {
 // Fix the order.
 sort(maxroot);
 
+var rawSatisfiedBy = fs.readFileSync("satisfiedBy.txt").toString();
+var satisfiedBy = {};
+rawSatisfiedBy.split('\n').forEach(row => {
+    var idx = row.indexOf(',');
+    var id = row.substring(0, idx);
+    var uri = row.substring(idx+1);
+    satisfiedBy[id] = uri;
+});
+
 var fmid = "PHRSFMR2";
 var groupings = [ ];
 var resources = [ ];
@@ -156,7 +165,7 @@ function handleHeaderOrFunction(headerOrFunction, parentObject) {
 }
 
 function handleCriteria(criteria, fhir_parent_req) {
-    var id = criteria.name[0].replace('#','-');
+    var id = criteria.name[0];
     var name = criteria.name[0];
     var notes = criteria.notes[0];
     var optionality = criteria.tag.find(tag => tag['$'].name === 'Optionality');
@@ -167,7 +176,7 @@ function handleCriteria(criteria, fhir_parent_req) {
         return;
     }
     var fhir_statement = {
-        "key": fmid + "-" + id,
+        "key": fmid + "-" + id.replace('#','-'),
         "label": name,
         "conformance": [
           optionality['$'].value
@@ -176,6 +185,7 @@ function handleCriteria(criteria, fhir_parent_req) {
         "requirement": notes
       };
     if (!fhir_parent_req.statement) { fhir_parent_req.statement = [] };
+    if (id in satisfiedBy) { fhir_statement["satisfiedBy"] = [ satisfiedBy[id]] }
     fhir_parent_req.statement.push(fhir_statement);
 }
 
