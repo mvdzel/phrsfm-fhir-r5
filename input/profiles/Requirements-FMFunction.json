@@ -1,0 +1,60 @@
+{
+    "resourceType": "StructureDefinition",
+    "id": "FMFunction",
+    "url": "http://hl7.org/ehrs/StructureDefinition/FMFunction",
+    "status": "draft",
+    "name": "FMFunction",
+    "title": "FMFunction",
+    "description": "This StructureDefinition represents the basis EHR-S FM Function type",
+    "kind": "resource",
+    "abstract": false,
+    "type": "Requirements",
+    "baseDefinition": "http://hl7.org/fhir/StructureDefinition/Requirements",
+    "derivation": "constraint",
+    "differential": {
+        "element": [
+            {
+                "id": "Requirements",
+                "path": "Requirements",
+                "constraint": [
+                    {
+                        "key": "FMFLC13",
+                        "severity": "warning",
+                        "human": "Function must have one or more conformance criteria.",
+                        "expression": "statement.count() > 0"
+                    }
+                ]
+            },
+            {
+                "id": "Requirements.statement",
+                "path": "Requirements.statement",
+                "constraint": [
+                    {
+                        "key": "FMTSR03",
+                        "severity": "warning",
+                        "human": "The text is not single spaced (there are multiple spaces).",
+                        "expression": "requirement.contains('  ').not()"
+                    },
+                    {
+                        "key": "FMCC001",
+                        "severity": "warning",
+                        "human": "The Conditional Criteria is not structured correctly.",
+                        "expression": "(conditionality and requirement.startsWith('IF ').not()).not()"
+                    },
+                    {
+                        "key": "FMCC002",
+                        "severity": "warning",
+                        "human": "The Criteria is structured as conditional but conditional is not indicated.",
+                        "expression": "(conditionality.not() and requirement.startsWith('IF ')).not()"
+                    },
+                    {
+                        "key": "FMSVR08",
+                        "severity": "warning",
+                        "human": "Optionality attribute does not match the optionality in the text.",
+                        "expression": "requirement.contains(conformance.first())"
+                    }
+                ]
+            }
+        ]
+    }
+}

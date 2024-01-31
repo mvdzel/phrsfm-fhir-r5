@@ -1,0 +1,1730 @@
+../input/resources/Requirements-PHRSFMR2-PH.json
+../input/resources/Requirements-PHRSFMR2-PH.0.json
+../input/resources/Requirements-PHRSFMR2-PH.1.json
+../input/resources/Requirements-PHRSFMR2-PH.1.1.json
+../input/resources/Requirements-PHRSFMR2-PH.1.2.json
+../input/resources/Requirements-PHRSFMR2-PH.1.3.json
+../input/resources/Requirements-PHRSFMR2-PH.1.4.json
+../input/resources/Requirements-PHRSFMR2-PH.1.5.json
+../input/resources/Requirements-PHRSFMR2-PH.1.6.json
+../input/resources/Requirements-PHRSFMR2-PH.2.json
+../input/resources/Requirements-PHRSFMR2-PH.2.1.json
+../input/resources/Requirements-PHRSFMR2-PH.2.2.json
+../input/resources/Requirements-PHRSFMR2-PH.2.3.json
+../input/resources/Requirements-PHRSFMR2-PH.2.4.json
+../input/resources/Requirements-PHRSFMR2-PH.2.5.json
+../input/resources/Requirements-PHRSFMR2-PH.2.5.1.json
+../input/resources/Requirements-PHRSFMR2-PH.2.5.2.json
+../input/resources/Requirements-PHRSFMR2-PH.2.5.3.json
+../input/resources/Requirements-PHRSFMR2-PH.2.5.4.json
+../input/resources/Requirements-PHRSFMR2-PH.2.5.5.json
+../input/resources/Requirements-PHRSFMR2-PH.2.5.6.json
+../input/resources/Requirements-PHRSFMR2-PH.2.5.7.json
+../input/resources/Requirements-PHRSFMR2-PH.2.5.8.json
+../input/resources/Requirements-PHRSFMR2-PH.2.5.9.json
+../input/resources/Requirements-PHRSFMR2-PH.2.5.10.json
+../input/resources/Requirements-PHRSFMR2-PH.2.5.11.json
+../input/resources/Requirements-PHRSFMR2-PH.3.json
+../input/resources/Requirements-PHRSFMR2-PH.3.1.json
+../input/resources/Requirements-PHRSFMR2-PH.3.1.1.json
+../input/resources/Requirements-PHRSFMR2-PH.3.1.2.json
+../input/resources/Requirements-PHRSFMR2-PH.3.2.json
+../input/resources/Requirements-PHRSFMR2-PH.3.3.json
+../input/resources/Requirements-PHRSFMR2-PH.3.4.json
+../input/resources/Requirements-PHRSFMR2-PH.3.5.json
+../input/resources/Requirements-PHRSFMR2-PH.3.5.1.json
+../input/resources/Requirements-PHRSFMR2-PH.3.5.2.json
+../input/resources/Requirements-PHRSFMR2-PH.3.5.3.json
+../input/resources/Requirements-PHRSFMR2-PH.3.5.4.json
+../input/resources/Requirements-PHRSFMR2-PH.3.5.5.json
+../input/resources/Requirements-PHRSFMR2-PH.3.5.6.json
+../input/resources/Requirements-PHRSFMR2-PH.3.6.json
+../input/resources/Requirements-PHRSFMR2-PH.3.6.1.json
+../input/resources/Requirements-PHRSFMR2-PH.3.6.2.json
+../input/resources/Requirements-PHRSFMR2-PH.4.json
+../input/resources/Requirements-PHRSFMR2-PH.5.json
+../input/resources/Requirements-PHRSFMR2-PH.5.1.json
+../input/resources/Requirements-PHRSFMR2-PH.5.2.json
+../input/resources/Requirements-PHRSFMR2-PH.5.3.json
+../input/resources/Requirements-PHRSFMR2-PH.5.4.json
+../input/resources/Requirements-PHRSFMR2-PH.5.5.json
+../input/resources/Requirements-PHRSFMR2-PH.5.6.json
+../input/resources/Requirements-PHRSFMR2-PH.6.json
+../input/resources/Requirements-PHRSFMR2-PH.6.1.json
+../input/resources/Requirements-PHRSFMR2-PH.6.2.json
+../input/resources/Requirements-PHRSFMR2-PH.6.3.json
+../input/resources/Requirements-PHRSFMR2-PH.6.4.json
+../input/resources/Requirements-PHRSFMR2-PH.6.5.json
+../input/resources/Requirements-PHRSFMR2-PH.6.6.json
+../input/resources/Requirements-PHRSFMR2-PH.6.7.json
+../input/resources/Requirements-PHRSFMR2-PH.6.8.json
+../input/resources/Requirements-PHRSFMR2-S.json
+../input/resources/Requirements-PHRSFMR2-S.1.json
+../input/resources/Requirements-PHRSFMR2-S.1.1.json
+../input/resources/Requirements-PHRSFMR2-S.1.2.json
+../input/resources/Requirements-PHRSFMR2-S.1.3.json
+../input/resources/Requirements-PHRSFMR2-S.1.4.json
+../input/resources/Requirements-PHRSFMR2-S.1.5.json
+../input/resources/Requirements-PHRSFMR2-S.1.6.json
+../input/resources/Requirements-PHRSFMR2-S.1.7.json
+../input/resources/Requirements-PHRSFMR2-S.2.json
+../input/resources/Requirements-PHRSFMR2-S.2.1.json
+../input/resources/Requirements-PHRSFMR2-S.2.2.json
+../input/resources/Requirements-PHRSFMR2-S.2.3.json
+../input/resources/Requirements-PHRSFMR2-S.2.4.json
+../input/resources/Requirements-PHRSFMR2-S.3.json
+../input/resources/Requirements-PHRSFMR2-S.3.1.json
+../input/resources/Requirements-PHRSFMR2-S.3.2.json
+../input/resources/Requirements-PHRSFMR2-S.3.3.json
+../input/resources/Requirements-PHRSFMR2-S.3.3.1.json
+../input/resources/Requirements-PHRSFMR2-S.3.3.2.json
+../input/resources/Requirements-PHRSFMR2-S.3.3.3.json
+../input/resources/Requirements-PHRSFMR2-S.3.4.json
+../input/resources/Requirements-PHRSFMR2-S.3.5.json
+../input/resources/Requirements-PHRSFMR2-S.3.6.json
+../input/resources/Requirements-PHRSFMR2-S.3.7.json
+../input/resources/Requirements-PHRSFMR2-S.3.8.json
+../input/resources/Requirements-PHRSFMR2-S.3.9.json
+../input/resources/Requirements-PHRSFMR2-S.4.json
+../input/resources/Requirements-PHRSFMR2-S.4.1.json
+../input/resources/Requirements-PHRSFMR2-S.4.1.1.json
+../input/resources/Requirements-PHRSFMR2-S.4.1.2.json
+../input/resources/Requirements-PHRSFMR2-S.4.1.3.json
+../input/resources/Requirements-PHRSFMR2-S.4.1.4.json
+../input/resources/Requirements-PHRSFMR2-S.4.2.json
+../input/resources/Requirements-PHRSFMR2-S.4.3.json
+../input/resources/Requirements-PHRSFMR2-S.4.4.json
+../input/resources/Requirements-PHRSFMR2-S.4.5.json
+../input/resources/Requirements-PHRSFMR2-S.4.6.json
+../input/resources/Requirements-PHRSFMR2-S.4.6.1.json
+../input/resources/Requirements-PHRSFMR2-S.4.6.2.json
+../input/resources/Requirements-PHRSFMR2-S.4.6.3.json
+../input/resources/Requirements-PHRSFMR2-S.4.6.4.json
+../input/resources/Requirements-PHRSFMR2-S.4.6.5.json
+../input/resources/Requirements-PHRSFMR2-S.4.6.6.json
+../input/resources/Requirements-PHRSFMR2-RI.json
+../input/resources/Requirements-PHRSFMR2-RI.1.json
+../input/resources/Requirements-PHRSFMR2-RI.1.1.json
+../input/resources/Requirements-PHRSFMR2-RI.1.1.1.json
+../input/resources/Requirements-PHRSFMR2-RI.1.1.1.1.json
+../input/resources/Requirements-PHRSFMR2-RI.1.1.2.json
+../input/resources/Requirements-PHRSFMR2-RI.1.1.2.1.json
+../input/resources/Requirements-PHRSFMR2-RI.1.1.3.json
+../input/resources/Requirements-PHRSFMR2-RI.1.1.3.1.json
+../input/resources/Requirements-PHRSFMR2-RI.1.1.4.json
+../input/resources/Requirements-PHRSFMR2-RI.1.1.4.1.json
+../input/resources/Requirements-PHRSFMR2-RI.1.1.5.json
+../input/resources/Requirements-PHRSFMR2-RI.1.1.5.1.json
+../input/resources/Requirements-PHRSFMR2-RI.1.1.6.json
+../input/resources/Requirements-PHRSFMR2-RI.1.1.6.1.json
+../input/resources/Requirements-PHRSFMR2-RI.1.1.7.json
+../input/resources/Requirements-PHRSFMR2-RI.1.1.7.1.json
+../input/resources/Requirements-PHRSFMR2-RI.1.1.8.json
+../input/resources/Requirements-PHRSFMR2-RI.1.1.8.1.json
+../input/resources/Requirements-PHRSFMR2-RI.1.1.9.json
+../input/resources/Requirements-PHRSFMR2-RI.1.1.9.1.json
+../input/resources/Requirements-PHRSFMR2-RI.1.1.10.json
+../input/resources/Requirements-PHRSFMR2-RI.1.1.10.1.json
+../input/resources/Requirements-PHRSFMR2-RI.1.1.11.json
+../input/resources/Requirements-PHRSFMR2-RI.1.1.11.1.json
+../input/resources/Requirements-PHRSFMR2-RI.1.1.12.json
+../input/resources/Requirements-PHRSFMR2-RI.1.1.12.1.json
+../input/resources/Requirements-PHRSFMR2-RI.1.1.13.json
+../input/resources/Requirements-PHRSFMR2-RI.1.1.13.1.json
+../input/resources/Requirements-PHRSFMR2-RI.1.1.14.json
+../input/resources/Requirements-PHRSFMR2-RI.1.1.14.1.json
+../input/resources/Requirements-PHRSFMR2-RI.1.1.15.json
+../input/resources/Requirements-PHRSFMR2-RI.1.1.15.1.json
+../input/resources/Requirements-PHRSFMR2-RI.1.1.16.json
+../input/resources/Requirements-PHRSFMR2-RI.1.1.16.1.json
+../input/resources/Requirements-PHRSFMR2-RI.1.1.17.json
+../input/resources/Requirements-PHRSFMR2-RI.1.1.17.1.json
+../input/resources/Requirements-PHRSFMR2-RI.1.1.18.json
+../input/resources/Requirements-PHRSFMR2-RI.1.1.18.1.json
+../input/resources/Requirements-PHRSFMR2-RI.1.1.19.json
+../input/resources/Requirements-PHRSFMR2-RI.1.1.19.1.json
+../input/resources/Requirements-PHRSFMR2-RI.1.1.20.json
+../input/resources/Requirements-PHRSFMR2-RI.1.1.20.1.json
+../input/resources/Requirements-PHRSFMR2-RI.1.1.21.json
+../input/resources/Requirements-PHRSFMR2-RI.1.1.21.1.json
+../input/resources/Requirements-PHRSFMR2-RI.1.1.22.json
+../input/resources/Requirements-PHRSFMR2-RI.1.1.22.1.json
+../input/resources/Requirements-PHRSFMR2-RI.1.1.23.json
+../input/resources/Requirements-PHRSFMR2-RI.1.1.23.1.json
+../input/resources/Requirements-PHRSFMR2-RI.1.1.24.json
+../input/resources/Requirements-PHRSFMR2-RI.1.1.24.1.json
+../input/resources/Requirements-PHRSFMR2-RI.1.1.25.json
+../input/resources/Requirements-PHRSFMR2-RI.1.1.25.1.json
+../input/resources/Requirements-PHRSFMR2-RI.1.1.26.json
+../input/resources/Requirements-PHRSFMR2-RI.1.1.26.1.json
+../input/resources/Requirements-PHRSFMR2-RI.1.1.27.json
+../input/resources/Requirements-PHRSFMR2-RI.1.1.27.1.json
+../input/resources/Requirements-PHRSFMR2-RI.1.2.json
+../input/resources/Requirements-PHRSFMR2-RI.1.2.1.json
+../input/resources/Requirements-PHRSFMR2-RI.1.2.2.json
+../input/resources/Requirements-PHRSFMR2-RI.1.3.json
+../input/resources/Requirements-PHRSFMR2-RI.1.3.1.json
+../input/resources/Requirements-PHRSFMR2-RI.1.3.2.json
+../input/resources/Requirements-PHRSFMR2-RI.1.3.3.json
+../input/resources/Requirements-PHRSFMR2-RI.1.3.4.json
+../input/resources/Requirements-PHRSFMR2-RI.1.4.json
+../input/resources/Requirements-PHRSFMR2-RI.2.json
+../input/resources/Requirements-PHRSFMR2-RI.3.json
+../input/resources/Requirements-PHRSFMR2-TI.json
+../input/resources/Requirements-PHRSFMR2-TI.1.json
+../input/resources/Requirements-PHRSFMR2-TI.1.1.json
+../input/resources/Requirements-PHRSFMR2-TI.1.2.json
+../input/resources/Requirements-PHRSFMR2-TI.1.3.json
+../input/resources/Requirements-PHRSFMR2-TI.1.3.1.json
+../input/resources/Requirements-PHRSFMR2-TI.1.4.json
+../input/resources/Requirements-PHRSFMR2-TI.1.5.json
+../input/resources/Requirements-PHRSFMR2-TI.1.6.json
+../input/resources/Requirements-PHRSFMR2-TI.1.7.json
+../input/resources/Requirements-PHRSFMR2-TI.1.8.json
+../input/resources/Requirements-PHRSFMR2-TI.1.8.1.json
+../input/resources/Requirements-PHRSFMR2-TI.1.8.2.json
+../input/resources/Requirements-PHRSFMR2-TI.1.9.json
+../input/resources/Requirements-PHRSFMR2-TI.1.10.json
+../input/resources/Requirements-PHRSFMR2-TI.1.11.json
+../input/resources/Requirements-PHRSFMR2-TI.2.json
+../input/resources/Requirements-PHRSFMR2-TI.2.1.json
+../input/resources/Requirements-PHRSFMR2-TI.2.1.1.json
+../input/resources/Requirements-PHRSFMR2-TI.2.1.2.json
+../input/resources/Requirements-PHRSFMR2-TI.2.1.2.1.json
+../input/resources/Requirements-PHRSFMR2-TI.2.1.2.2.json
+../input/resources/Requirements-PHRSFMR2-TI.2.1.2.3.json
+../input/resources/Requirements-PHRSFMR2-TI.2.1.2.4.json
+../input/resources/Requirements-PHRSFMR2-TI.2.1.2.5.json
+../input/resources/Requirements-PHRSFMR2-TI.2.1.2.6.json
+../input/resources/Requirements-PHRSFMR2-TI.2.1.2.7.json
+../input/resources/Requirements-PHRSFMR2-TI.2.1.2.8.json
+../input/resources/Requirements-PHRSFMR2-TI.2.1.2.9.json
+../input/resources/Requirements-PHRSFMR2-TI.2.1.3.json
+../input/resources/Requirements-PHRSFMR2-TI.2.1.3.1.json
+../input/resources/Requirements-PHRSFMR2-TI.2.1.3.2.json
+../input/resources/Requirements-PHRSFMR2-TI.2.1.3.3.json
+../input/resources/Requirements-PHRSFMR2-TI.2.1.3.4.json
+../input/resources/Requirements-PHRSFMR2-TI.2.1.3.5.json
+../input/resources/Requirements-PHRSFMR2-TI.2.1.3.6.json
+../input/resources/Requirements-PHRSFMR2-TI.2.1.3.7.json
+../input/resources/Requirements-PHRSFMR2-TI.2.1.3.8.json
+../input/resources/Requirements-PHRSFMR2-TI.2.1.3.9.json
+../input/resources/Requirements-PHRSFMR2-TI.2.1.3.10.json
+../input/resources/Requirements-PHRSFMR2-TI.2.1.3.11.json
+../input/resources/Requirements-PHRSFMR2-TI.2.1.3.12.json
+../input/resources/Requirements-PHRSFMR2-TI.2.1.3.13.json
+../input/resources/Requirements-PHRSFMR2-TI.2.1.3.14.json
+../input/resources/Requirements-PHRSFMR2-TI.2.1.3.15.json
+../input/resources/Requirements-PHRSFMR2-TI.2.1.3.16.json
+../input/resources/Requirements-PHRSFMR2-TI.2.1.4.json
+../input/resources/Requirements-PHRSFMR2-TI.2.1.4.1.json
+../input/resources/Requirements-PHRSFMR2-TI.2.1.4.2.json
+../input/resources/Requirements-PHRSFMR2-TI.2.1.4.3.json
+../input/resources/Requirements-PHRSFMR2-TI.2.2.json
+../input/resources/Requirements-PHRSFMR2-TI.2.2.1.json
+../input/resources/Requirements-PHRSFMR2-TI.2.3.json
+../input/resources/Requirements-PHRSFMR2-TI.3.json
+../input/resources/Requirements-PHRSFMR2-TI.4.json
+../input/resources/Requirements-PHRSFMR2-TI.4.1.json
+../input/resources/Requirements-PHRSFMR2-TI.4.2.json
+../input/resources/Requirements-PHRSFMR2-TI.4.3.json
+../input/resources/Requirements-PHRSFMR2-TI.5.json
+../input/resources/Requirements-PHRSFMR2-TI.5.1.json
+../input/resources/Requirements-PHRSFMR2-TI.5.1.1.json
+../input/resources/Requirements-PHRSFMR2-TI.5.1.2.json
+../input/resources/Requirements-PHRSFMR2-TI.5.1.3.json
+../input/resources/Requirements-PHRSFMR2-TI.5.2.json
+../input/resources/Requirements-PHRSFMR2-TI.5.3.json
+../input/resources/Requirements-PHRSFMR2-TI.5.4.json
+../input/resources/Requirements-PHRSFMR2-TI.5.5.json
+../input/resources/Requirements-PHRSFMR2-TI.6.json
+../input/resources/Requirements-PHRSFMR2-TI.7.json
+../input/resources/Requirements-PHRSFMR2-TI.8.json
+../input/resources/Requirements-PHRSFMR2-TI.9.json
+../input/resources/Requirements-PHRSFMR2-TI.10.json
+../input/resources/Requirements-PHRSFMR2-TI.10.1.json
+../input/resources/Requirements-PHRSFMR2-TI.10.2.json
+../input/resources/Requirements-PHRSFMR2-TI.10.3.json
+../input/resources/Requirements-PHRSFMR2.json
+"grouping":[
+  {
+    "id": "PH",
+    "name": "Personal Health Section",
+    "description": "Personal Health PHR-S functions are the subset of PHR-S functions that enable an individual to manage information about his or her healthcare. These functions provide direction as to the individual’s ability to interact with a Personal Health Record in such a way so as to individualize the record and maintain a current and accurate record of his or her healthcare activities. The functions include activities such as managing wellness, prevention and encounters. These functions are designed to encourage and allow an individual to participate actively in their healthcare and better access the resources that allow for self-education and monitoring.\r\nAll functions within the Personal Health Section have an identifier starting with “PH”."
+  },
+  {
+    "id": "S",
+    "name": "Personal Health Support Section",
+    "description": "Supportive PHR-S functions are the subset of PHR-S functions that assist with the administrative and financial requirements associated with the delivery of healthcare. Supportive PHR-S functions also provide input to systems that perform medical research, promote public health, and seek to improve the quality of healthcare delivered.\r\nAll functions within the Supportive Section have an identifier starting with “S”."
+  },
+  {
+    "id": "RI",
+    "name": "Record Infrastructure Section",
+    "description": "The Record Infrastructure Section consists of functions common to EHR System record management, particularly those functions foundational to managing record lifecycle (origination, attestation, amendment, access/use, translation, transmittal/disclosure, receipt, de-identification, archive...) and record lifespan (persistence, indelibility, continuity, audit, encryption).\r\n\r\nThe RI and TI Sections are identical between the PHR and EHR System Functional Models, reflecting the need for common and compatible record management and trust infrastructures.  Note that there may be some functions more directly applicable to EHR systems than PHR systems.\r\n\r\nRI functions are core and foundational to all other functions of the Model (PH, S). RI functions may be implemented within the architecture of a single system or across a tightly coupled suite of systems (applications). All functions within the Record Infrastructure Section have an identifier starting with “RI”."
+  },
+  {
+    "id": "TI",
+    "name": "Trust Infrastructure Section",
+    "description": "The Trust Infrastructure (TI) Section consists of functions common to a PHR System infrastructure, particularly those functions foundational to system operations, security, efficiency and data integrity assurance, safeguards for privacy and confidentiality, and interoperability with other systems. TI functions are core and foundational to all other functions of the Model (Care Provision, Care Provision Support, Population Health, Administrative Support and Record Infrastructure). Note extensive reference to TI functions in Overarching Criteria. TI functions may be implemented within the architecture of a single system or across a tightly coupled suite of systems (applications).All functions within the Trust Infrastructure Section have an identifier starting with “TI”.\r\n\r\nThe RI and TI Sections are identical between the PHR and EHR System Functional Models, reflecting the need for common and compatible record management and trust infrastructures.  Note that there may be some functions more directly applicable to EHR systems than PHR systems."
+  }
+]
+"resource":[
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-PH.0"
+    },
+    "groupingId": "PH"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-PH.1"
+    },
+    "groupingId": "PH"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-PH.1.1"
+    },
+    "groupingId": "PH"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-PH.1.2"
+    },
+    "groupingId": "PH"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-PH.1.3"
+    },
+    "groupingId": "PH"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-PH.1.4"
+    },
+    "groupingId": "PH"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-PH.1.5"
+    },
+    "groupingId": "PH"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-PH.1.6"
+    },
+    "groupingId": "PH"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-PH.2"
+    },
+    "groupingId": "PH"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-PH.2.1"
+    },
+    "groupingId": "PH"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-PH.2.2"
+    },
+    "groupingId": "PH"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-PH.2.3"
+    },
+    "groupingId": "PH"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-PH.2.4"
+    },
+    "groupingId": "PH"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-PH.2.5"
+    },
+    "groupingId": "PH"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-PH.2.5.1"
+    },
+    "groupingId": "PH"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-PH.2.5.2"
+    },
+    "groupingId": "PH"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-PH.2.5.3"
+    },
+    "groupingId": "PH"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-PH.2.5.4"
+    },
+    "groupingId": "PH"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-PH.2.5.5"
+    },
+    "groupingId": "PH"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-PH.2.5.6"
+    },
+    "groupingId": "PH"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-PH.2.5.7"
+    },
+    "groupingId": "PH"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-PH.2.5.8"
+    },
+    "groupingId": "PH"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-PH.2.5.9"
+    },
+    "groupingId": "PH"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-PH.2.5.10"
+    },
+    "groupingId": "PH"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-PH.2.5.11"
+    },
+    "groupingId": "PH"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-PH.3"
+    },
+    "groupingId": "PH"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-PH.3.1"
+    },
+    "groupingId": "PH"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-PH.3.1.1"
+    },
+    "groupingId": "PH"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-PH.3.1.2"
+    },
+    "groupingId": "PH"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-PH.3.2"
+    },
+    "groupingId": "PH"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-PH.3.3"
+    },
+    "groupingId": "PH"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-PH.3.4"
+    },
+    "groupingId": "PH"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-PH.3.5"
+    },
+    "groupingId": "PH"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-PH.3.5.1"
+    },
+    "groupingId": "PH"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-PH.3.5.2"
+    },
+    "groupingId": "PH"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-PH.3.5.3"
+    },
+    "groupingId": "PH"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-PH.3.5.4"
+    },
+    "groupingId": "PH"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-PH.3.5.5"
+    },
+    "groupingId": "PH"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-PH.3.5.6"
+    },
+    "groupingId": "PH"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-PH.3.6"
+    },
+    "groupingId": "PH"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-PH.3.6.1"
+    },
+    "groupingId": "PH"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-PH.3.6.2"
+    },
+    "groupingId": "PH"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-PH.4"
+    },
+    "groupingId": "PH"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-PH.5"
+    },
+    "groupingId": "PH"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-PH.5.1"
+    },
+    "groupingId": "PH"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-PH.5.2"
+    },
+    "groupingId": "PH"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-PH.5.3"
+    },
+    "groupingId": "PH"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-PH.5.4"
+    },
+    "groupingId": "PH"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-PH.5.5"
+    },
+    "groupingId": "PH"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-PH.5.6"
+    },
+    "groupingId": "PH"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-PH.6"
+    },
+    "groupingId": "PH"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-PH.6.1"
+    },
+    "groupingId": "PH"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-PH.6.2"
+    },
+    "groupingId": "PH"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-PH.6.3"
+    },
+    "groupingId": "PH"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-PH.6.4"
+    },
+    "groupingId": "PH"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-PH.6.5"
+    },
+    "groupingId": "PH"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-PH.6.6"
+    },
+    "groupingId": "PH"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-PH.6.7"
+    },
+    "groupingId": "PH"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-PH.6.8"
+    },
+    "groupingId": "PH"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-S.1"
+    },
+    "groupingId": "S"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-S.1.1"
+    },
+    "groupingId": "S"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-S.1.2"
+    },
+    "groupingId": "S"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-S.1.3"
+    },
+    "groupingId": "S"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-S.1.4"
+    },
+    "groupingId": "S"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-S.1.5"
+    },
+    "groupingId": "S"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-S.1.6"
+    },
+    "groupingId": "S"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-S.1.7"
+    },
+    "groupingId": "S"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-S.2"
+    },
+    "groupingId": "S"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-S.2.1"
+    },
+    "groupingId": "S"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-S.2.2"
+    },
+    "groupingId": "S"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-S.2.3"
+    },
+    "groupingId": "S"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-S.2.4"
+    },
+    "groupingId": "S"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-S.3"
+    },
+    "groupingId": "S"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-S.3.1"
+    },
+    "groupingId": "S"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-S.3.2"
+    },
+    "groupingId": "S"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-S.3.3"
+    },
+    "groupingId": "S"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-S.3.3.1"
+    },
+    "groupingId": "S"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-S.3.3.2"
+    },
+    "groupingId": "S"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-S.3.3.3"
+    },
+    "groupingId": "S"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-S.3.4"
+    },
+    "groupingId": "S"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-S.3.5"
+    },
+    "groupingId": "S"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-S.3.6"
+    },
+    "groupingId": "S"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-S.3.7"
+    },
+    "groupingId": "S"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-S.3.8"
+    },
+    "groupingId": "S"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-S.3.9"
+    },
+    "groupingId": "S"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-S.4"
+    },
+    "groupingId": "S"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-S.4.1"
+    },
+    "groupingId": "S"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-S.4.1.1"
+    },
+    "groupingId": "S"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-S.4.1.2"
+    },
+    "groupingId": "S"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-S.4.1.3"
+    },
+    "groupingId": "S"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-S.4.1.4"
+    },
+    "groupingId": "S"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-S.4.2"
+    },
+    "groupingId": "S"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-S.4.3"
+    },
+    "groupingId": "S"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-S.4.4"
+    },
+    "groupingId": "S"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-S.4.5"
+    },
+    "groupingId": "S"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-S.4.6"
+    },
+    "groupingId": "S"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-S.4.6.1"
+    },
+    "groupingId": "S"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-S.4.6.2"
+    },
+    "groupingId": "S"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-S.4.6.3"
+    },
+    "groupingId": "S"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-S.4.6.4"
+    },
+    "groupingId": "S"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-S.4.6.5"
+    },
+    "groupingId": "S"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-S.4.6.6"
+    },
+    "groupingId": "S"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-RI.1"
+    },
+    "groupingId": "RI"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-RI.1.1"
+    },
+    "groupingId": "RI"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-RI.1.1.1"
+    },
+    "groupingId": "RI"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-RI.1.1.1.1"
+    },
+    "groupingId": "RI"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-RI.1.1.2"
+    },
+    "groupingId": "RI"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-RI.1.1.2.1"
+    },
+    "groupingId": "RI"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-RI.1.1.3"
+    },
+    "groupingId": "RI"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-RI.1.1.3.1"
+    },
+    "groupingId": "RI"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-RI.1.1.4"
+    },
+    "groupingId": "RI"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-RI.1.1.4.1"
+    },
+    "groupingId": "RI"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-RI.1.1.5"
+    },
+    "groupingId": "RI"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-RI.1.1.5.1"
+    },
+    "groupingId": "RI"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-RI.1.1.6"
+    },
+    "groupingId": "RI"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-RI.1.1.6.1"
+    },
+    "groupingId": "RI"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-RI.1.1.7"
+    },
+    "groupingId": "RI"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-RI.1.1.7.1"
+    },
+    "groupingId": "RI"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-RI.1.1.8"
+    },
+    "groupingId": "RI"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-RI.1.1.8.1"
+    },
+    "groupingId": "RI"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-RI.1.1.9"
+    },
+    "groupingId": "RI"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-RI.1.1.9.1"
+    },
+    "groupingId": "RI"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-RI.1.1.10"
+    },
+    "groupingId": "RI"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-RI.1.1.10.1"
+    },
+    "groupingId": "RI"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-RI.1.1.11"
+    },
+    "groupingId": "RI"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-RI.1.1.11.1"
+    },
+    "groupingId": "RI"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-RI.1.1.12"
+    },
+    "groupingId": "RI"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-RI.1.1.12.1"
+    },
+    "groupingId": "RI"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-RI.1.1.13"
+    },
+    "groupingId": "RI"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-RI.1.1.13.1"
+    },
+    "groupingId": "RI"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-RI.1.1.14"
+    },
+    "groupingId": "RI"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-RI.1.1.14.1"
+    },
+    "groupingId": "RI"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-RI.1.1.15"
+    },
+    "groupingId": "RI"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-RI.1.1.15.1"
+    },
+    "groupingId": "RI"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-RI.1.1.16"
+    },
+    "groupingId": "RI"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-RI.1.1.16.1"
+    },
+    "groupingId": "RI"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-RI.1.1.17"
+    },
+    "groupingId": "RI"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-RI.1.1.17.1"
+    },
+    "groupingId": "RI"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-RI.1.1.18"
+    },
+    "groupingId": "RI"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-RI.1.1.18.1"
+    },
+    "groupingId": "RI"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-RI.1.1.19"
+    },
+    "groupingId": "RI"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-RI.1.1.19.1"
+    },
+    "groupingId": "RI"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-RI.1.1.20"
+    },
+    "groupingId": "RI"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-RI.1.1.20.1"
+    },
+    "groupingId": "RI"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-RI.1.1.21"
+    },
+    "groupingId": "RI"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-RI.1.1.21.1"
+    },
+    "groupingId": "RI"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-RI.1.1.22"
+    },
+    "groupingId": "RI"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-RI.1.1.22.1"
+    },
+    "groupingId": "RI"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-RI.1.1.23"
+    },
+    "groupingId": "RI"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-RI.1.1.23.1"
+    },
+    "groupingId": "RI"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-RI.1.1.24"
+    },
+    "groupingId": "RI"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-RI.1.1.24.1"
+    },
+    "groupingId": "RI"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-RI.1.1.25"
+    },
+    "groupingId": "RI"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-RI.1.1.25.1"
+    },
+    "groupingId": "RI"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-RI.1.1.26"
+    },
+    "groupingId": "RI"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-RI.1.1.26.1"
+    },
+    "groupingId": "RI"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-RI.1.1.27"
+    },
+    "groupingId": "RI"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-RI.1.1.27.1"
+    },
+    "groupingId": "RI"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-RI.1.2"
+    },
+    "groupingId": "RI"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-RI.1.2.1"
+    },
+    "groupingId": "RI"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-RI.1.2.2"
+    },
+    "groupingId": "RI"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-RI.1.3"
+    },
+    "groupingId": "RI"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-RI.1.3.1"
+    },
+    "groupingId": "RI"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-RI.1.3.2"
+    },
+    "groupingId": "RI"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-RI.1.3.3"
+    },
+    "groupingId": "RI"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-RI.1.3.4"
+    },
+    "groupingId": "RI"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-RI.1.4"
+    },
+    "groupingId": "RI"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-RI.2"
+    },
+    "groupingId": "RI"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-RI.3"
+    },
+    "groupingId": "RI"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-TI.1"
+    },
+    "groupingId": "TI"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-TI.1.1"
+    },
+    "groupingId": "TI"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-TI.1.2"
+    },
+    "groupingId": "TI"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-TI.1.3"
+    },
+    "groupingId": "TI"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-TI.1.3.1"
+    },
+    "groupingId": "TI"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-TI.1.4"
+    },
+    "groupingId": "TI"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-TI.1.5"
+    },
+    "groupingId": "TI"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-TI.1.6"
+    },
+    "groupingId": "TI"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-TI.1.7"
+    },
+    "groupingId": "TI"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-TI.1.8"
+    },
+    "groupingId": "TI"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-TI.1.8.1"
+    },
+    "groupingId": "TI"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-TI.1.8.2"
+    },
+    "groupingId": "TI"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-TI.1.9"
+    },
+    "groupingId": "TI"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-TI.1.10"
+    },
+    "groupingId": "TI"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-TI.1.11"
+    },
+    "groupingId": "TI"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-TI.2"
+    },
+    "groupingId": "TI"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-TI.2.1"
+    },
+    "groupingId": "TI"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-TI.2.1.1"
+    },
+    "groupingId": "TI"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-TI.2.1.2"
+    },
+    "groupingId": "TI"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-TI.2.1.2.1"
+    },
+    "groupingId": "TI"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-TI.2.1.2.2"
+    },
+    "groupingId": "TI"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-TI.2.1.2.3"
+    },
+    "groupingId": "TI"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-TI.2.1.2.4"
+    },
+    "groupingId": "TI"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-TI.2.1.2.5"
+    },
+    "groupingId": "TI"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-TI.2.1.2.6"
+    },
+    "groupingId": "TI"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-TI.2.1.2.7"
+    },
+    "groupingId": "TI"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-TI.2.1.2.8"
+    },
+    "groupingId": "TI"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-TI.2.1.2.9"
+    },
+    "groupingId": "TI"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-TI.2.1.3"
+    },
+    "groupingId": "TI"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-TI.2.1.3.1"
+    },
+    "groupingId": "TI"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-TI.2.1.3.2"
+    },
+    "groupingId": "TI"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-TI.2.1.3.3"
+    },
+    "groupingId": "TI"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-TI.2.1.3.4"
+    },
+    "groupingId": "TI"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-TI.2.1.3.5"
+    },
+    "groupingId": "TI"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-TI.2.1.3.6"
+    },
+    "groupingId": "TI"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-TI.2.1.3.7"
+    },
+    "groupingId": "TI"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-TI.2.1.3.8"
+    },
+    "groupingId": "TI"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-TI.2.1.3.9"
+    },
+    "groupingId": "TI"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-TI.2.1.3.10"
+    },
+    "groupingId": "TI"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-TI.2.1.3.11"
+    },
+    "groupingId": "TI"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-TI.2.1.3.12"
+    },
+    "groupingId": "TI"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-TI.2.1.3.13"
+    },
+    "groupingId": "TI"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-TI.2.1.3.14"
+    },
+    "groupingId": "TI"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-TI.2.1.3.15"
+    },
+    "groupingId": "TI"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-TI.2.1.3.16"
+    },
+    "groupingId": "TI"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-TI.2.1.4"
+    },
+    "groupingId": "TI"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-TI.2.1.4.1"
+    },
+    "groupingId": "TI"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-TI.2.1.4.2"
+    },
+    "groupingId": "TI"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-TI.2.1.4.3"
+    },
+    "groupingId": "TI"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-TI.2.2"
+    },
+    "groupingId": "TI"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-TI.2.2.1"
+    },
+    "groupingId": "TI"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-TI.2.3"
+    },
+    "groupingId": "TI"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-TI.3"
+    },
+    "groupingId": "TI"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-TI.4"
+    },
+    "groupingId": "TI"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-TI.4.1"
+    },
+    "groupingId": "TI"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-TI.4.2"
+    },
+    "groupingId": "TI"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-TI.4.3"
+    },
+    "groupingId": "TI"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-TI.5"
+    },
+    "groupingId": "TI"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-TI.5.1"
+    },
+    "groupingId": "TI"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-TI.5.1.1"
+    },
+    "groupingId": "TI"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-TI.5.1.2"
+    },
+    "groupingId": "TI"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-TI.5.1.3"
+    },
+    "groupingId": "TI"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-TI.5.2"
+    },
+    "groupingId": "TI"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-TI.5.3"
+    },
+    "groupingId": "TI"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-TI.5.4"
+    },
+    "groupingId": "TI"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-TI.5.5"
+    },
+    "groupingId": "TI"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-TI.6"
+    },
+    "groupingId": "TI"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-TI.7"
+    },
+    "groupingId": "TI"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-TI.8"
+    },
+    "groupingId": "TI"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-TI.9"
+    },
+    "groupingId": "TI"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-TI.10"
+    },
+    "groupingId": "TI"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-TI.10.1"
+    },
+    "groupingId": "TI"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-TI.10.2"
+    },
+    "groupingId": "TI"
+  },
+  {
+    "reference": {
+      "reference": "Requirements/PHRSFMR2-TI.10.3"
+    },
+    "groupingId": "TI"
+  }
+]

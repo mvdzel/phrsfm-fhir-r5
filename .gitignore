@@ -1,0 +1,10 @@
+node_modules/
+input/examples/
+input/resources/
+output/
+temp/
+template/
+input-cache/
+*/node_modules
+.~lock*
+.index.json

@@ -1,0 +1,30 @@
+{
+    "resourceType": "StructureDefinition",
+    "id": "FMHeader",
+    "url": "http://hl7.org/ehrs/StructureDefinition/FMHeader",
+    "status": "draft",
+    "name": "FMHeader",
+    "title": "FMHeader",
+    "description": "This StructureDefinition represents the basis EHR-S FM Header type",
+    "kind": "resource",
+    "abstract": false,
+    "type": "Requirements",
+    "baseDefinition": "http://hl7.org/fhir/StructureDefinition/Requirements",
+    "derivation": "constraint",
+    "differential": {
+        "element": [
+            {
+                "id": "Requirements",
+                "path": "Requirements",
+                "constraint": [
+                    {
+                        "key": "FMFLC13",
+                        "severity": "warning",
+                        "human": "A Header must not have criteria.",
+                        "expression": "statement.count() = 0"
+                    }
+                ]
+            }
+        ]
+    }
+}
